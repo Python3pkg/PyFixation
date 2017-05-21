@@ -22,6 +22,6 @@
 .. moduleauthor:: Ryan Hope <rmh3093@gmail.com>
 """
 
-from velocity import VelocityFP
+from .velocity import VelocityFP
 
 __version__ = '0.4.1'
